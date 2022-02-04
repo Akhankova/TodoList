@@ -2,7 +2,7 @@ import React, {useEffect} from 'react';
 import TodoList from './Todo/TodoList';
 import Context from './context';
 import Modal from './Modal/Modal';
-import Loader from './Loader';
+import Loader from './loader';
 import AddTodo from './Todo/AddTodo';
 
 function App() {
